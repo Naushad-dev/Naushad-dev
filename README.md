@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naushad-dev
 - 👀 I’m interested in collabration,community building.
-- 🌱 I’m currently learning flutter ,DSA and Web Dev..
-- 💞️ I’m looking to collaborate on flutter project beginner level..
+- 🌱 I’m currently learning React Native ,DSA and Web Dev..
+- 💞️ I’m looking to collaborate on React Native and Mobile app project..
 - 📫 How to reach me  naushad.dev97@gmail.com...
 
 <!---
